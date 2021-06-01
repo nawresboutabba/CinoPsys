@@ -1,4 +1,4 @@
-# YIFY-Client-Android-App
+# CinoPsys-Client-Android-App
 Android application for YIFY movie torrent downloads  (using yts.ag API )   
 <img src="https://github.com/Muneefm/YIFY-Client-Android-App/blob/master/screenshots/scrn3.jpg" alt="alt text" width="150" height="300">
 <img src="https://github.com/Muneefm/YIFY-Client-Android-App/blob/master/screenshots/scrn5.jpg" alt="alt text" width="150" height="300">
