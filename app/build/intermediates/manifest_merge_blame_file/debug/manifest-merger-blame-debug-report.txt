@@ -1,0 +1,385 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="yts.mnf.torrent"
+4    android:versionCode="12"
+5    android:versionName="1.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:6:5-76
+12-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:8:5-81
+14-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+16-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:11:5-68
+17-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:11:22-65
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:5:5-67
+18-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:5:22-64
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:13:5-81
+19-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:13:22-78
+20    <uses-permission android:name="android.permission.GET_TASKS" />
+20-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:14:5-68
+20-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:14:22-65
+21    <uses-permission android:name="android.permission.REAL_GET_TASKS" />
+21-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:15:5-73
+21-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:15:22-70
+22    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+22-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:16:5-78
+22-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:16:22-75
+23    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+23-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:17:5-74
+23-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:17:22-71
+24    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+24-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:18:5-75
+24-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:18:22-72
+25    <uses-permission android:name="android.gms.permission.ACTIVITY_RECOGNITION" />
+25-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:19:5-83
+25-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:19:22-80
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:13:5-81
+26-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:13:22-78
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->[com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\dbe064ad666a438cb8122aa97419ba22\firebase-measurement-connector-impl-17.0.1\AndroidManifest.xml:24:5-68
+27-->[com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\dbe064ad666a438cb8122aa97419ba22\firebase-measurement-connector-impl-17.0.1\AndroidManifest.xml:24:22-65
+28    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+28-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:26:5-110
+28-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:26:22-107
+29    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+29-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:26:5-82
+29-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:26:22-79
+30
+31    <application
+31-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:22:5-109:19
+32        android:name="yts.mnf.torrent.AppController"
+32-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:23:9-38
+33        android:allowBackup="true"
+33-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:24:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.3.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\b2f619914153b60555ab7d0fadff47f2\core-1.3.0\AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:25:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:26:9-41
+38        android:supportsRtl="true"
+38-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:27:9-35
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme" >
+40-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:28:9-40
+41        <meta-data
+41-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:30:9-32:54
+42            android:name="com.google.firebase.messaging.default_notification_icon"
+42-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:31:13-83
+43            android:resource="@mipmap/ic_launcher" />
+43-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:32:13-51
+44        <!--
+45             Set color used with incoming notification messages. This is used when no color is set for the incoming
+46             notification message. See README(https://goo.gl/6BKBk7) for more.
+47        -->
+48        <meta-data
+48-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:37:9-39:45
+49            android:name="com.google.firebase.messaging.default_notification_color"
+49-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:38:13-84
+50            android:resource="@color/red" />
+50-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:39:13-42
+51
+52        <activity
+52-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:41:9-44:59
+53            android:name="yts.mnf.torrent.MainActivity"
+53-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:42:13-41
+54            android:label="@string/app_name"
+54-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:43:13-45
+55            android:theme="@style/AppTheme.NoActionBar" />
+55-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:44:13-56
+56        <activity
+56-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:45:9-48:59
+57            android:name="yts.mnf.torrent.Activity.DetailsActivity"
+57-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:46:13-53
+58            android:label="@string/title_activity_details"
+58-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:47:13-59
+59            android:theme="@style/AppTheme.NoActionBar" />
+59-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:48:13-56
+60        <activity
+60-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:49:9-51:59
+61            android:name="yts.mnf.torrent.Activity.ActDetails"
+61-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:50:13-48
+62            android:theme="@style/AppTheme.NoActionBar" />
+62-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:51:13-56
+63        <activity
+63-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:52:9-54:59
+64            android:name="yts.mnf.torrent.Activity.ImageViewActivity"
+64-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:53:13-55
+65            android:theme="@style/AppTheme.NoActionBar" />
+65-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:54:13-56
+66        <activity
+66-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:55:9-58:53
+67            android:name="yts.mnf.torrent.Activity.SearchActivity"
+67-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:56:13-52
+68            android:label="@string/title_activity_search"
+68-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:57:13-58
+69            android:theme="@style/AppThemeSearch" /> <!-- [START firebase_service] -->
+69-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:58:13-50
+70        <service
+70-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:59:8-66:19
+71            android:name="yts.mnf.torrent.Tools.NotificationService"
+71-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:60:13-54
+72            android:enabled="true"
+72-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:61:13-35
+73            android:exported="true" >
+73-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:62:13-36
+74            <intent-filter>
+74-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:63:13-65:29
+75                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+75-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:64:17-78
+75-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:64:25-75
+76            </intent-filter>
+77        </service> <!-- [END firebase_service] -->
+78        <activity
+78-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:67:9-72:20
+79            android:name="yts.mnf.torrent.Activity.TabbedActivity"
+79-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:68:13-52
+80            android:label="@string/title_activity_tabbed"
+80-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:69:13-58
+81            android:theme="@style/AppTheme.NoActionBar" >
+81-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:70:13-56
+82            \
+83        </activity>
+84        <activity
+84-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:73:9-82:20
+85            android:name="yts.mnf.torrent.Activity.NewMainActivity"
+85-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:74:13-53
+86            android:label="@string/app_name"
+86-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:75:13-45
+87            android:theme="@style/AppTheme" >
+87-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:76:13-44
+88            <intent-filter>
+88-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:77:13-81:29
+89                <action android:name="android.intent.action.MAIN" />
+89-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:78:17-69
+89-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:78:25-66
+90
+91                <category android:name="android.intent.category.LAUNCHER" />
+91-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:80:17-77
+91-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:80:27-74
+92            </intent-filter>
+93        </activity>
+94        <activity
+94-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:83:9-86:59
+95            android:name="yts.mnf.torrent.Activity.PopcornDetailActivity"
+95-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:84:13-59
+96            android:label="@string/title_activity_popcorn_detail"
+96-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:85:13-66
+97            android:theme="@style/AppTheme.NoActionBar" />
+97-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:86:13-56
+98        <activity
+98-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:87:9-89:63
+99            android:name="yts.mnf.torrent.Activity.SettingsActivity"
+99-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:88:13-54
+100            android:label="@string/title_activity_settings" />
+100-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:89:13-60
+101        <activity android:name="yts.mnf.torrent.Activity.SettingsActivityCustom" />
+101-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:90:9-69
+101-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:90:19-66
+102        <activity
+102-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:91:9-94:55
+103            android:name="yts.mnf.torrent.Activity.NewSettingsAct"
+103-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:92:13-52
+104            android:label="Settings"
+104-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:93:13-37
+105            android:theme="@style/AppThemeSettings" />
+105-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:94:13-52
+106        <activity
+106-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:95:9-98:47
+107            android:name="yts.mnf.torrent.Activity.AboutAcitivty"
+107-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:96:13-51
+108            android:label="@string/title_activity_about_acitivty"
+108-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:97:13-66
+109            android:theme="@style/AppTheme" />
+109-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:98:13-44
+110        <activity
+110-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:99:9-102:47
+111            android:name="yts.mnf.torrent.Activity.StreamActivity"
+111-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:100:13-52
+112            android:label="@string/title_activity_stream"
+112-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:101:13-58
+113            android:theme="@style/AppTheme" />
+113-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:102:13-44
+114        <activity android:name="yts.mnf.torrent.Activity.WishListActivity" />
+114-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:103:9-63
+114-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:103:19-60
+115        <activity
+115-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:104:9-108:47
+116            android:name="yts.mnf.torrent.Activity.WishListActivityTwo"
+116-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:105:13-57
+117            android:label="@string/title_activity_wish_list_two"
+117-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:106:13-65
+118            android:parentActivityName="yts.mnf.torrent.Activity.NewMainActivity"
+118-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:107:13-67
+119            android:theme="@style/AppTheme" />
+119-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:108:13-44
+120        <!--
+121             FirebaseMessagingService performs security checks at runtime,
+122             no need for explicit permissions despite exported="true"
+123        -->
+124        <service
+124-->[com.google.firebase:firebase-messaging:17.3.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\48df54fae2adf944619940ef551bae65\firebase-messaging-17.3.0\AndroidManifest.xml:28:9-34:19
+125            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+125-->[com.google.firebase:firebase-messaging:17.3.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\48df54fae2adf944619940ef551bae65\firebase-messaging-17.3.0\AndroidManifest.xml:29:13-82
+126            android:exported="true" >
+126-->[com.google.firebase:firebase-messaging:17.3.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\48df54fae2adf944619940ef551bae65\firebase-messaging-17.3.0\AndroidManifest.xml:30:13-36
+127            <intent-filter android:priority="-500" >
+127-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:63:13-65:29
+128                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+128-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:64:17-78
+128-->C:\Users\21653\Desktop\cinofinale\app\src\main\AndroidManifest.xml:64:25-75
+129            </intent-filter>
+130        </service>
+131        <service
+131-->[com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\dbe064ad666a438cb8122aa97419ba22\firebase-measurement-connector-impl-17.0.1\AndroidManifest.xml:27:9-31:19
+132            android:name="com.google.firebase.components.ComponentDiscoveryService"
+132-->[com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\dbe064ad666a438cb8122aa97419ba22\firebase-measurement-connector-impl-17.0.1\AndroidManifest.xml:27:18-89
+133            android:exported="false" >
+133-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:31:13-37
+134            <meta-data
+134-->[com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\dbe064ad666a438cb8122aa97419ba22\firebase-measurement-connector-impl-17.0.1\AndroidManifest.xml:28:13-30:85
+135                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+135-->[com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\dbe064ad666a438cb8122aa97419ba22\firebase-measurement-connector-impl-17.0.1\AndroidManifest.xml:29:17-139
+136                android:value="com.google.firebase.components.ComponentRegistrar" />
+136-->[com.google.firebase:firebase-measurement-connector-impl:17.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\dbe064ad666a438cb8122aa97419ba22\firebase-measurement-connector-impl-17.0.1\AndroidManifest.xml:30:17-82
+137            <meta-data
+137-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:32:13-34:85
+138                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+138-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:33:17-96
+139                android:value="com.google.firebase.components.ComponentRegistrar" />
+139-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:34:17-82
+140        </service>
+141
+142        <receiver
+142-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:29:9-33:20
+143            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+143-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:30:13-85
+144            android:enabled="true"
+144-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:31:13-35
+145            android:exported="false" >
+145-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:32:13-37
+146        </receiver>
+147        <receiver
+147-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:34:9-42:20
+148            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+148-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:35:13-100
+149            android:enabled="true"
+149-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:36:13-35
+150            android:exported="true"
+150-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:37:13-36
+151            android:permission="android.permission.INSTALL_PACKAGES" >
+151-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:38:13-69
+152            <intent-filter>
+152-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:39:13-41:29
+153                <action android:name="com.android.vending.INSTALL_REFERRER" />
+153-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:40:17-79
+153-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:40:25-76
+154            </intent-filter>
+155        </receiver>
+156
+157        <service
+157-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:44:9-47:40
+158            android:name="com.google.android.gms.measurement.AppMeasurementService"
+158-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:45:13-84
+159            android:enabled="true"
+159-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:46:13-35
+160            android:exported="false" />
+160-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:47:13-37
+161        <service
+161-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:48:9-52:72
+162            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+162-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:49:13-87
+163            android:enabled="true"
+163-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:50:13-35
+164            android:exported="false"
+164-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:51:13-37
+165            android:permission="android.permission.BIND_JOB_SERVICE" />
+165-->[com.google.firebase:firebase-analytics:16.0.3] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\50b943240e2e56ceb47b932c3ea4c962\firebase-analytics-16.0.3\AndroidManifest.xml:52:13-69
+166
+167        <receiver
+167-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:37:9-44:20
+168            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+168-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:38:13-78
+169            android:exported="true"
+169-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:39:13-36
+170            android:permission="com.google.android.c2dm.permission.SEND" >
+170-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:40:13-73
+171            <intent-filter>
+171-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:41:13-43:29
+172                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+172-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:42:17-81
+172-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:42:25-78
+173            </intent-filter>
+174        </receiver>
+175        <!--
+176             FirebaseInstanceIdService performs security checks at runtime,
+177             no need for explicit permissions despite exported="true"
+178        -->
+179        <service
+179-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:50:9-56:19
+180            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+180-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:51:13-77
+181            android:exported="true" >
+181-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:52:13-36
+182            <intent-filter android:priority="-500" >
+182-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:53:13-55:29
+182-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:53:28-51
+183                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+183-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:54:17-80
+183-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\0674e0d99823315fd7b4e330d20f4240\firebase-iid-17.0.0\AndroidManifest.xml:54:25-77
+184            </intent-filter>
+185        </service>
+186
+187        <activity
+187-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\2af38b63d02d19036018a6c6e38c1f73\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+188            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+188-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\2af38b63d02d19036018a6c6e38c1f73\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+189            android:exported="false"
+189-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\2af38b63d02d19036018a6c6e38c1f73\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+190            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+190-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\2af38b63d02d19036018a6c6e38c1f73\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+191
+192        <provider
+192-->[com.google.firebase:firebase-common:16.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\bcff34bde0d5662477e8dd008a981c98\firebase-common-16.0.1\AndroidManifest.xml:10:9-14:39
+193            android:name="com.google.firebase.provider.FirebaseInitProvider"
+193-->[com.google.firebase:firebase-common:16.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\bcff34bde0d5662477e8dd008a981c98\firebase-common-16.0.1\AndroidManifest.xml:11:13-77
+194            android:authorities="yts.mnf.torrent.firebaseinitprovider"
+194-->[com.google.firebase:firebase-common:16.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\bcff34bde0d5662477e8dd008a981c98\firebase-common-16.0.1\AndroidManifest.xml:12:13-72
+195            android:exported="false"
+195-->[com.google.firebase:firebase-common:16.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\bcff34bde0d5662477e8dd008a981c98\firebase-common-16.0.1\AndroidManifest.xml:13:13-37
+196            android:initOrder="100" />
+196-->[com.google.firebase:firebase-common:16.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\bcff34bde0d5662477e8dd008a981c98\firebase-common-16.0.1\AndroidManifest.xml:14:13-36
+197
+198        <meta-data
+198-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\d55149b91244238dc57ac4931e6fcfff\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+199            android:name="com.google.android.gms.version"
+199-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\d55149b91244238dc57ac4931e6fcfff\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+200            android:value="@integer/google_play_services_version" />
+200-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\21653\.gradle\caches\transforms-2\files-2.1\d55149b91244238dc57ac4931e6fcfff\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+201    </application>
+202
+203</manifest>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "611513682138",
+    "firebase_url": "https://yify-site-app.firebaseio.com",
+    "project_id": "yify-site-app",
+    "storage_bucket": "yify-site-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611513682138:android:71ca6c565a794e24",
+        "android_client_info": {
+          "package_name": "yts.mnf.torrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611513682138-5tg1kcs4oucblstpl1fsvro2uhaql9af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-Ecm8_hCsNE-_k73uJ-nzNwYFrlfdE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

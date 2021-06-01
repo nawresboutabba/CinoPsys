@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings_custom.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_settings_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_white.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_white.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_white.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi\\ic_search_white.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_wish_menu.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi\\ic_wish_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_search.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_wish_menu.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi\\ic_wish_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_details.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_youtube.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_wish_list_activity_two.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_wish_list_activity_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_quality.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\fragment_quality.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_new_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\menu\\menu_new_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_fav_false.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_fav_false.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_quality.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\single_quality.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_new_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_white.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_star_off.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi\\ic_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_wishlist_item.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\wishlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_acitivty.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\about_acitivty.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_leech.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\leech.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_imdb.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\imdb.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_new_settings.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_new_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wish_list.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_wish_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_star.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_md_btn_selector_custom.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\md_btn_selector_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\transition_change_image_transform.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\transition\\change_image_transform.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.jpg.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_fav_true.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_fav_true.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tabbed.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\fragment_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_seed.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\seed.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_folder.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_popcorn_detail.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_popcorn_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_yify_movie.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\fragment_yify_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_popcorn_detail.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\menu\\menu_popcorn_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_placeholder.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_white.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_white.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_star_off.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star_off.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wish_list_two.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_wish_list_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_leecht.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\leecht.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_grid.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\item_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_error.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_black_24dp.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star_off.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi\\ic_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_border_black_24dp.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\ic_star_border_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_star.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-mdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_suggestion.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\item_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_popcorn_detail.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_popcorn_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_star_off.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\ic_star_off.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_md_btn_selected_custom.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\md_btn_selected_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_search.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_tabbed.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\menu\\menu_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\fragment_new_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_download.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_view.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_act_details.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\act_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stream.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popcorn.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\fragment_popcorn.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tabbed.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_wish_menu.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xhdpi\\ic_wish_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_details.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\menu\\menu_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sample_poster.jpg.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\sample_poster.jpg"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_magnet.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\mipmap-hdpi\\magnet.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_settings.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\activity_new_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_about_acitivty.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_about_acitivty.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-xxhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_stream.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\layout\\content_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_md_btn_unselected_custom.xml.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\md_btn_unselected_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wish_menu.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable-mdpi\\ic_wish_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banner.png.flat",
+        "source": "C:\\Users\\21653\\Desktop\\cinofinale\\app\\src\\main\\res\\drawable\\banner.png"
+    }
+]
